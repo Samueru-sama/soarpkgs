@@ -14,7 +14,7 @@ homepage:
   - "https://cemu.info"
   - "https://github.com/cemu-project/Cemu"
 maintainer:
-  - "QaidVoid (contact@qaidvoid.dev)"
+  - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "MPL-2.0"
     url: "https://raw.githubusercontent.com/cemu-project/Cemu/main/LICENSE.txt"

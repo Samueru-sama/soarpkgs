@@ -13,7 +13,7 @@ homepage:
   - "https://alacritty.org"
   - "https://github.com/alacritty/alacritty"
 maintainer:
-  - "QaidVoid (contact@qaidvoid.dev)"
+  - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "Apache-2.0"
     url: "https://raw.githubusercontent.com/alacritty/alacritty/master/LICENSE-APACHE"

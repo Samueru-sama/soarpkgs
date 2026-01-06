@@ -14,7 +14,7 @@ homepage:
   - "https://www.mesa3d.org"
   - "https://gitlab.freedesktop.org/mesa/mesa"
 maintainer:
-  - "QaidVoid (contact@qaidvoid.dev)"
+  - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "MIT"
     url: "https://gitlab.freedesktop.org/mesa/mesa/-/raw/main/docs/license.rst"

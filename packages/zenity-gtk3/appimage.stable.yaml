@@ -12,7 +12,7 @@ description: "Display graphical dialog boxes from shell scripts (GTK3 version)"
 homepage:
   - "https://gitlab.gnome.org/GNOME/zenity"
 maintainer:
-  - "QaidVoid (contact@qaidvoid.dev)"
+  - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "LGPL-2.1"
     url: "https://gitlab.gnome.org/GNOME/zenity/-/raw/master/COPYING"

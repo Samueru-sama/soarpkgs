@@ -15,7 +15,7 @@ homepage:
   - "https://transmissionbt.com"
   - "https://github.com/transmission/transmission"
 maintainer:
-  - "QaidVoid (contact@qaidvoid.dev)"
+  - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "GPL-3.0"
     url: "https://raw.githubusercontent.com/transmission/transmission/main/COPYING"

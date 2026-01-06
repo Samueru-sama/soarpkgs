@@ -13,7 +13,7 @@ description: "Qt port of volume control pavucontrol for PulseAudio"
 homepage:
   - "https://github.com/lxqt/pavucontrol-qt"
 maintainer:
-  - "QaidVoid (contact@qaidvoid.dev)"
+  - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "GPL-2.0"
     url: "https://raw.githubusercontent.com/lxqt/pavucontrol-qt/master/LICENSE"
