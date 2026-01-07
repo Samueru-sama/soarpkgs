@@ -15,6 +15,7 @@ maintainer:
   - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "MPL-2.0"
+    url: "https://raw.githubusercontent.com/giantpinkrobots/varia/refs/heads/main/LICENSE"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/Varia-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

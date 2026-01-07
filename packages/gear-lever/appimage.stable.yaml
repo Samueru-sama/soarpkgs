@@ -16,6 +16,7 @@ maintainer:
   - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "GPL-3.0"
+    url: "https://raw.githubusercontent.com/mijorus/gearlever/refs/heads/main/LICENSE.md"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/Gear-Lever-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

@@ -16,6 +16,7 @@ maintainer:
   - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "LGPL-3.0"
+    url: "https://raw.githubusercontent.com/altdesktop/playerctl/refs/heads/main/COPYING"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/playerctl-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

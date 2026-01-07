@@ -17,6 +17,7 @@ maintainer:
   - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "ISC"
+    url: "https://raw.githubusercontent.com/ares-emulator/ares/refs/heads/main/LICENSE"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/ares-emu-appimage"
   - "[PORTABLE] (Works on AnyLinux)"

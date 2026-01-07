@@ -16,6 +16,7 @@ maintainer:
   - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "GPL-3.0"
+    url: "https://raw.githubusercontent.com/neithern/g4music/refs/heads/main/COPYING"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/Gapless-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

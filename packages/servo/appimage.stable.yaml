@@ -17,6 +17,7 @@ maintainer:
   - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "MPL-2.0"
+    url: "https://raw.githubusercontent.com/servo/servo/refs/heads/main/LICENSE"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/servo-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

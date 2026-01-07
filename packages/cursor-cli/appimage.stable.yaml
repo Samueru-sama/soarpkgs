@@ -17,6 +17,7 @@ maintainer:
   - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "Proprietary"
+    url: "https://raw.githubusercontent.com/getcursor/cursor/refs/heads/main/LICENSE"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/cursor-cli-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

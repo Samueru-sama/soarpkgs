@@ -15,6 +15,7 @@ maintainer:
   - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "BSD-2-Clause"
+    url: "https://raw.githubusercontent.com/GeopJr/Collision/refs/heads/main/LICENSE.md"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/Collision-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

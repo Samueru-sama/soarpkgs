@@ -16,6 +16,7 @@ maintainer:
   - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "GPL-3.0"
+    url: "https://raw.githubusercontent.com/mjakeman/extension-manager/refs/heads/main/COPYING"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/Extension-Manager-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

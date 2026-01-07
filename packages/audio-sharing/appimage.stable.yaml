@@ -16,6 +16,7 @@ maintainer:
   - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "GPL-3.0"
+    url: "https://raw.githubusercontent.com/mkckr0/audio-sharing/refs/heads/main/LICENSE"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/Audio-Sharing-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"

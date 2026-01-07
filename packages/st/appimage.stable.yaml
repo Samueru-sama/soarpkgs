@@ -17,6 +17,7 @@ maintainer:
   - "Samueru-sama (github.com/Samueru-sama)"
 license:
   - id: "MIT"
+    url: "https://raw.githubusercontent.com/suckless/st/refs/heads/main/LICENSE"
 note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/st-AppImage"
   - "[PORTABLE] (Works on AnyLinux)"
