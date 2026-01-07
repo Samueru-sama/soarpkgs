@@ -13,7 +13,7 @@ description: "Modern media player built with GTK4 and GStreamer"
 homepage:
   - "https://github.com/Rafostar/clapper"
 maintainer:
-  - "Samueru-sama (github.com/Samueru-sama)"
+  - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "GPL-3.0"
 note:

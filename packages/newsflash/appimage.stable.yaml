@@ -14,7 +14,7 @@ homepage:
   - "https://gitlab.com/news-flash/news_flash_gtk"
   - "https://github.com/pkgforge-dev/NewsFlash-AppImage"
 maintainer:
-  - "Samueru-sama (github.com/Samueru-sama)"
+  - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "GPL-3.0"
 note:

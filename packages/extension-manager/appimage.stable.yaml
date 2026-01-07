@@ -13,7 +13,7 @@ description: "Manage GNOME Shell extensions"
 homepage:
   - "https://github.com/mjakeman/extension-manager"
 maintainer:
-  - "Samueru-sama (github.com/Samueru-sama)"
+  - "fiftydinar (github.com/fiftydinar)"
 license:
   - id: "GPL-3.0"
 note:
