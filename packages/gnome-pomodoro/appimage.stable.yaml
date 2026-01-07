@@ -36,4 +36,4 @@ x_exec:
   pkgver: |
     curl -qfsSL "https://api.gh.pkgforge.dev/repos/pkgforge-dev/gnome-pomodoro-appimage/releases/latest?per_page=20" | jq -r '.tag_name' | tr -d '"'\''[:space:]'
   run: |
-    soar dl "https://github.com/pkgforge-dev/gnome-pomodoro-appimage@${PKGVER}" --glob "*x86_64*.appimage" -o "./${PKG}" --yes
+    soar dl "https://github.com/pkgforge-dev/gnome-pomodoro-appimage@${PKGVER}" --glob "*$(uname -m)*.appimage" -o "./${PKG}" --yes
