@@ -1,11 +1,11 @@
 #!/SBUILD ver @v1.0.0
-#SELF: https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/appimageupdate-enhanced/appimage.stable.yaml
+#SELF: https://raw.githubusercontent.com/pkgforge/soarpkgs/refs/heads/main/packages/appimageupdatetool/appimage.stable.yaml
 _disabled: false
 
-pkg: "appimageupdate-enhanced"
-pkg_id: "pkgforge-dev.appimageupdate-enhanced"
+pkg: "appimageupdatetool"
+pkg_id: "pkgforge-dev.appimageupdatetool"
 pkg_type: "appimage"
-ghcr_pkg: "pkgcache/pkgforge-dev/appimageupdate-enhanced"
+ghcr_pkg: "pkgcache/pkgforge-dev/appimageupdatetool"
 category:
   - "Utility"
 description: "AppImageUpdate - Update AppImages"
@@ -20,9 +20,9 @@ note:
   - "Fetched from Pre Built Community Created AppImage. Check/Report @ https://github.com/pkgforge-dev/AppImageUpdate-Enhanced-Edition"
   - "[PORTABLE] (Works on AnyLinux)"
 provides:
-  - "appimageupdate-enhanced"
+  - "appimageupdatetool"
 repology:
-  - "appimageupdate-enhanced"
+  - "appimageupdatetool"
 src_url:
   - "https://github.com/pkgforge-dev/AppImageUpdate-Enhanced-Edition"
 tag:
